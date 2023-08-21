@@ -10,7 +10,9 @@
 				"ms-python.python",
 				"usernamehw.errorlens",
 				"eamodio.gitlens",
-				"ms-python.black-formatter"
+				"ms-python.black-formatter",
+				"ms-python.pylint",
+				"shardulm94.trailing-spaces"
 			]
 		}
 	}
